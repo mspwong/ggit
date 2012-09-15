@@ -25,6 +25,15 @@ module ApplicationHelper
     puts 'and then more from branch 3'
     puts 'and then more from branch 4'
 
+    p 'round 4 from branch 1'
+<<<<<<< HEAD
     p 'round 5 from master 1'
+=======
+    p 'round 4 from branch 2'
+<<<<<<< HEAD
+>>>>>>> 07f22f8... from branch 2
+=======
+    p 'round 4 from branch 3'
+>>>>>>> 719725f... from branch 3
   end
 end
