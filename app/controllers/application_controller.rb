@@ -7,5 +7,7 @@ class ApplicationController < ActionController::Base
     p 'change from master 3'
 
     p 'even more changes from master 1'
+
+    puts 'and more from master 1'
   end
 end
