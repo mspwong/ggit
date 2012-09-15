@@ -18,7 +18,11 @@ module ApplicationHelper
     p 'some changes from master 3'
     p 'even more changes from branch 4'
 
+    puts 'and them more from branch 1'
     puts 'and more from master 2'
     puts 'and more from master 3'
+    puts 'and then more from branch 2'
+    puts 'and then more from branch 3'
+    puts 'and then more from branch 4'
   end
 end
