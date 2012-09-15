@@ -4,5 +4,6 @@ class ApplicationController < ActionController::Base
   def do_nothing
     p 'change from master 1'
     p 'change from master 2'
+    p 'change from master 3'
   end
 end

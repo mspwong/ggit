@@ -5,5 +5,10 @@ module ApplicationHelper
     p 'changed in test_branch_2'
     p 'another change in test_branch_2'
 
+    puts 'more changes from branch 1'
+    puts 'more changes from branch 2'
+    puts 'more changes from branch 3'
+    puts 'more changes from branch 4'
+    puts 'more changes from branch 5'
   end
 end
