@@ -26,5 +26,6 @@ module ApplicationHelper
     puts 'and then more from branch 4'
 
     p 'round 4 from branch 1'
+    p 'round 4 from branch 2'
   end
 end
