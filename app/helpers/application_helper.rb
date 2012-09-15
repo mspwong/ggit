@@ -10,5 +10,7 @@ module ApplicationHelper
     puts 'more changes from branch 3'
     puts 'more changes from branch 4'
     puts 'more changes from branch 5'
+
+    p 'some changes from master 2'
   end
 end
